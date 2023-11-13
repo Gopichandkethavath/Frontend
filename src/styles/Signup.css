@@ -1,0 +1,27 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .login-form {
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  .login-form .form-check-label {
+    font-size: 14px;
+  }
+  
+  .login-form button {
+    margin-top: 10px;
+  }
+  
+  .login-form p {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
